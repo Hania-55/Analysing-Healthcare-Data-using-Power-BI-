@@ -1,5 +1,3 @@
-# Analysing-Healthcare-Data-using-Power-BI-
-
 # 📊 DataCamp Case Study: Analyzing Healthcare Data in Power BI
 
 This repository showcases my completion of the **DataCamp case study on healthcare analytics**, where I built interactive dashboards in **Power BI** to analyze hospital performance . The project demonstrates my ability to apply **data modeling, DAX, and visualization techniques** to uncover actionable insights.
